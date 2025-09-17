@@ -8,8 +8,7 @@
 
 ![SecondHeader](assets/Second%20Header.png)
 
-    Full-Stack Developer, Robotics Engineer, Software Engineer, UI Designer, 
-    Open-Source Enjoyeer and also just a chill guy
+>Full-Stack Developer, Robotics Engineer, Software Engineer, UI Designer, Open-Source Enjoyeer and also just a chill guy
 
 <br>![AlienIcon](assets/icons/Alien%20Monster.png) Vintage and Retro style fan
 </br>
@@ -20,8 +19,8 @@
 
 ![ThirdHeader](assets/Third%20Header.png)
 
-    While developing various projects and learning in parallel, 
-    I acquired skills that are essential for creating any full-fledged application
+>While developing various projects and learning in parallel, I acquired skills that are essential for creating any full-fledged application
+<br></br>
 
 ![CIcon](assets/icons/C.png) ![CSIcon](assets/icons/CSharp.png) ![CPPIcon](assets/icons/CPP.png) ![PythonIcon](assets/icons/Python.png) ![JSIcon](assets/icons/JS.png) ![HTMLIcon](assets/icons/HTML5.png) ![CSSIcon](assets/icons/CSS.png) ![VueIcon](assets/icons/Vue.png) ![ReactIcon](assets/icons/React.png) ![dotNETIcon](assets/icons/NET.png) ![ASPIcon](assets/icons/ASP.png) ![SQLiteIcon](assets/icons/SQLite.png)
 <br></br>
