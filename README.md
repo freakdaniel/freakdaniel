@@ -20,10 +20,12 @@
 ![ThirdHeader](assets/Third%20Header.png)
 
 >While developing various projects and learning in parallel, I acquired skills that are essential for creating any full-fledged application
-<br></br>
+
+<br>
 
 ![CIcon](assets/icons/C.png) ![CSIcon](assets/icons/CSharp.png) ![CPPIcon](assets/icons/CPP.png) ![PythonIcon](assets/icons/Python.png) ![JSIcon](assets/icons/JS.png) ![HTMLIcon](assets/icons/HTML5.png) ![CSSIcon](assets/icons/CSS.png) ![VueIcon](assets/icons/Vue.png) ![ReactIcon](assets/icons/React.png) ![dotNETIcon](assets/icons/NET.png) ![ASPIcon](assets/icons/ASP.png) ![SQLiteIcon](assets/icons/SQLite.png)
-<br></br>
+
+</br>
 
 ---
 
