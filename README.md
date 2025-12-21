@@ -12,6 +12,6 @@
 - **Instagram** — [Link](https://instagram.com/_freakdaniel)
 - **E(boomer)mail** — [Link](mailto:freakdaniel.business@gmail.com)
 
-<img height=215 src="https://github-readme-stats.vercel.app/api?username=freakdaniel&theme=graywhite&show_icons=true&border_radius=30" />
+<img width=515 src="https://github-readme-stats.vercel.app/api?username=freakdaniel&theme=graywhite&show_icons=true&border_radius=30" />
 
 [Want to ask something?](https://dontasktoask.com/)
