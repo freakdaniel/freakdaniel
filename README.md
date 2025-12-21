@@ -11,6 +11,5 @@
 - **Instagram** — [Link](https://instagram.com/_freakdaniel)
 - **E(boomer)mail** — [Link](mailto:freakdaniel.business@gmail.com)
 
----
 
-[dontasktoask.com](https://dontasktoask.com/)
+[Want to ask something? — dontasktoask.com](https://dontasktoask.com/)
