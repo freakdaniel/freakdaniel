@@ -12,4 +12,4 @@
 - **E(boomer)mail** — [Link](mailto:freakdaniel.business@gmail.com)
 
 
-[Want to ask something? — dontasktoask.com](https://dontasktoask.com/)
+[Want to ask something?](https://dontasktoask.com/)
